@@ -1,1 +1,1 @@
-Stos-v2.3.2
+stos-v2.3.2.tar.gz
